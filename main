@@ -136,6 +136,8 @@ class Day():
 
 my_day = Day()
 
+#modify logging date and time
+
 while True:
     prompt = input("What would you like to do?\nEnter 'add' to add to calorie total, or enter 'quit' to print summary: ")
     if prompt == "quit":

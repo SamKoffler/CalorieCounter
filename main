@@ -1,4 +1,6 @@
 import datetime
+import random
+#use for IDS
 
 food_calories = {
     "apple": 52, "banana": 105, "orange": 62, "strawberry": 49, "grapes": 104,
